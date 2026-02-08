@@ -17,6 +17,15 @@ Designed to be simple to run for non-technical users.
 - OBS Studio
 - A webcam
 
+## Download Options
+
+### Download ZIP (Recommended for most users)
+- Go to the **Releases** page
+- Download the latest `.zip`
+- Extract it
+- Double-click `install.bat`, then `run.bat`
+This options is best if you just want to use the tool.
+
 ## Setup (First Time Only)
 1. Download or clone this repository
 2. Double-click `install.bat`
@@ -35,3 +44,4 @@ Designed to be simple to run for non-technical users.
 
 ## Credits
 Built using OpenCV, MediaPipe Tasks, and pyvirtualcam.
+
